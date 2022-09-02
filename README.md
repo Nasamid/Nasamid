@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Danilo Llaga </h1>
+<h1 align="center">Danilo Llaga</h1>
 <h3 align="center">A Computer Engineering Student from the Philippines</h3>
 
 - 🌱 I’m currently learning **Various Programming languages, such as Python, C++, and C#. I'm also currently experimenting with Unity Game Engine as well as Arduino.**
