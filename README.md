@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Danilo F. Llaga Jr.</h1>
+<h1 align="center">Hi👋, I'm Danilo Llaga </h1>
 <h3 align="center">A Computer Engineering Student from the Philippines</h3>
 
 - 🌱 I’m currently learning **Various Programming languages, such as Python, C++, and C#. I'm also currently experimenting with Unity Game Engine as well as Arduino**
 
 - 📫 How to reach me **jrllaga600@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+// <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
